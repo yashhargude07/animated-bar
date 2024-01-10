@@ -1,2 +1,0 @@
-# animated-bar
-new repo
